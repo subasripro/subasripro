@@ -8,7 +8,7 @@ Hi I'm subasri A web Developer<br>I'm Building Websites In Front End <br>I'm wor
 ![](https://github-readme-stats.vercel.app/api?username=subasripro&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
 <br>
-<hr>
+<hr height=2px>
 
 
 # 💻 Tech Stack:
