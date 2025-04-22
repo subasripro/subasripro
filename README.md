@@ -5,7 +5,7 @@ Hi I'm subasri A web Developer<br>I'm Building Websites In Front End <br>I'm wor
 <br>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=subasripro&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+[](https://github-readme-stats.vercel.app/api?username=subasripro&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
 <br>
 <hr height=2px>
